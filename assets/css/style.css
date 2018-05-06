@@ -1,0 +1,71 @@
+
+*
+{
+    box-sizing: border-box;
+}
+
+body
+{
+    background: url("../images/crystal.gif") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
+h1
+{
+    color: black;
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 60px;
+}
+
+
+p
+{
+    color: red;
+    font-size: 20px;
+    text-align: justify;
+}
+
+#descdiv
+{
+    display: none;
+}
+
+button
+{
+      height: 70px;
+}
+
+img
+{
+    height:60px;
+}
+#main 
+{
+    height: auto;
+    margin-bottom: 10px;
+    background: #bac3d3;
+}
+
+#col1
+{
+    background: gray;
+    height: 180px;
+}
+
+#col2
+{
+    background: skyblue;
+    height: 180px;
+}
+
+#col3
+{
+ background: seagreen;
+ height: 180px;
+}
+
